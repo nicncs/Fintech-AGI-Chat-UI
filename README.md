@@ -2,9 +2,6 @@
 
 Build your own GPT-4 chatbot frontend with this open source Next.js template! Simply add `OPENAI_API_KEY` as a Secret in this Repl.
 
-Don't have early access to GPT-4? Replace `gpt-4` with `gpt-3.5-turbo` in `pages/api/chat.js`.
-
-**Note: due to insanely high traffic, I have downgraded this to GPT 3.5 until further notice.**
 
 ## Getting Started
 
